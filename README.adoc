@@ -2,8 +2,20 @@
 
 ++++
 <p align="center">
-<img src="https://github.com/avishekdutta531/Yt-Downloader/blob/main/yt-downloader-linux/img/youtube-video-downloader-logo.png" style="weight: 50px">
+<img src="https://github.com/avishekdutta531/Yt-Downloader/blob/main/yt-downloader-linux/img/youtube-video-downloader-logo.png">
 </p>
 ++++
 
 *Yt Video Downloader* is a very fast youtube video downloader. This downloader is completely free. It supports Windows and Linux Distros.
+
+== Installation
+
+IMPORTANT: Install Git on your computer.
+
+=== Linux Distributions
+```bash
+git clone https://github.com/avishekdutta531/Yt-Downloader.git
+cd Yt-Downloader/yt-downloader-linux
+./yt-downloader
+```
+
