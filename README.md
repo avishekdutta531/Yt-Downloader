@@ -8,7 +8,7 @@
 
 ## Installation
 
-Follow installation proccess given below to install Yt-Downloader in your Linux Computer or your Windows Computer
+Follow the installation process given below to install Youtube-Downloader in your Linux Computer or your Windows Computer
 
 ### Linux Distributions
 
