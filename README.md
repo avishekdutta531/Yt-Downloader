@@ -1,7 +1,7 @@
 # Yt Video Downloader
 
 <p align="center">
-<img src="https://github.com/avishekdutta531/Yt-Downloader/blob/main/youtube-video-downloader-logo.png">
+<img src="https://raw.githubusercontent.com/avishekdutta531/Yt-Downloader/main/youtube-video-downloader-logo.png">
 </p>
 
 *Yt Video Downloader* is a very fast youtube video downloader. This downloader is completely free. It supports Windows and Linux Distros.
@@ -30,7 +30,7 @@ or,
 Download the ZIP file from https://github.com/avishekdutta531/Yt-Downloader. Then, Extract the ZIP and open "yt-downloader-windows" folder. Run "yt-downloader.exe"
 
 <p align="center">
-<img src="https://github.com/avishekdutta531/Yt-Downloader/blob/main/Screenshot%20from%202021-04-07%2015-07-09.png">
+<img src="https://raw.githubusercontent.com/avishekdutta531/Yt-Downloader/main/Screenshot%20from%202021-04-07%2015-07-09.png">
 </p>
 
 
