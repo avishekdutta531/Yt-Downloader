@@ -10,7 +10,7 @@
 
 == Installation
 
-!Important : Install Git on your computer.
+IMPORTANT: Install Git on your computer.
 
 === Linux Distributions
 
