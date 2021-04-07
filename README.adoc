@@ -2,7 +2,7 @@
 
 ++++
 <p align="center">
-<img src="https://github.com/avishekdutta531/Yt-Downloader/blob/main/yt-downloader-linux/img/youtube-video-downloader-logo.png">
+<img src="https://github.com/avishekdutta531/Yt-Downloader/blob/main/yt-downloader-linux/img/youtube-video-downloader-logo.png" style="weight: 100px">
 </p>
 ++++
 
