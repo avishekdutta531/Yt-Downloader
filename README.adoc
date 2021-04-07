@@ -21,5 +21,3 @@ cd Yt-Downloader/yt-downloader-linux
 ```
 == Instructions
 When the dialog box opens, just paste the youtube video url with CTRL+V. Now, just click on download. On "yt-downloader-linux" folder a "Videos" folder will be created. Go on "Videos" folder and enjoy the video.
-
-This program is written by Avishek Dutta
