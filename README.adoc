@@ -1,0 +1,5 @@
+= Yt Video Downloader
+:imagesdir:
+  https://github.com/avishekdutta531/Yt-Downloader/blob/main/yt-downloader-linux/img/youtube-video-downloader-logo.png
+
+*Yt Video Downloader* is a very fast youtube video downloader. This downloader is completely free. It supports Windows and Linux Distros.
