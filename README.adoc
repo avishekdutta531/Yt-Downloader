@@ -17,6 +17,7 @@ IMPORTANT: Install Git on your computer.
 ```bash
 git clone https://github.com/avishekdutta531/Yt-Downloader.git
 cd Yt-Downloader/yt-downloader-linux
+chmod a+x yt-downloader
 ./yt-downloader
 ```
 === Windows
