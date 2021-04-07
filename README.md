@@ -8,7 +8,7 @@
 
 ## Installation
 
-IMPORTANT: Install Git on your computer.
+Follow installation proccess given below to install Yt-Downloader in your Linux Computer or your Windows Computer
 
 ### Linux Distributions
 
@@ -19,14 +19,7 @@ chmod a+x yt-downloader
 ./yt-downloader
 ```
 ### Windows
-Open Git Bash.
 
-```bash
-git clone https://github.com/avishekdutta531/Yt-Downloader.git
-cd Yt-Downloader/yt-downloader-windows
-yt-downloader.exe
-```
-or,
 Download the ZIP file. Then, Extract the ZIP and open "yt-downloader-windows" folder. Run "yt-downloader.exe"
 
 <p align="center">
