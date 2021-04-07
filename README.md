@@ -20,7 +20,7 @@ chmod a+x yt-downloader
 ```
 ### Windows
 
-Download the ZIP file from <a href"https://github.com/avishekdutta531/Yt-Downloader">Yt Video Downloader</a>. Then, Extract the ZIP and open "yt-downloader-windows" folder. Run "yt-downloader.exe"
+Download the ZIP file from "https://github.com/avishekdutta531/Yt-Downloader". Then, Extract the ZIP and open "yt-downloader-windows" folder. Run "yt-downloader.exe"
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/avishekdutta531/Yt-Downloader/main/img/Screenshot%20Download.png">
