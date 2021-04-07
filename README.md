@@ -32,5 +32,5 @@ When the dialog box opens, just paste the youtube video url with CTRL+V. Now, ju
 
 ## Screenshot
 <p align="center">
-<img src="https://raw.githubusercontent.com/avishekdutta531/Yt-Downloader/main/img/Screenshot-01.png.">
+<img src="https://raw.githubusercontent.com/avishekdutta531/Yt-Downloader/main/img/Screenshot-01.png">
 </p>
