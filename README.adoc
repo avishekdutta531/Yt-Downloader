@@ -13,9 +13,10 @@
 IMPORTANT: Install Git on your computer.
 
 === Linux Distributions
+
 ```bash
 git clone https://github.com/avishekdutta531/Yt-Downloader.git
 cd Yt-Downloader/yt-downloader-linux
 ./yt-downloader
 ```
-
+This program is written by Avishek Dutta
